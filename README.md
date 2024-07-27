@@ -1,16 +1,4 @@
-***
-## Tabla de contenidos
 
-1. Descripción 
-2. Tecnologías Utilizadas.
-3. Estructura y diseño de base de datos.
-4. Instalaciones.
-5. Endpoints.
-6. Funcionalidades Futuras.
-7. Link.
-8. Autor.
-
-***
 ## Descripción
 El departamento de producto nos ha encomendado desarrollar el backend correspondiente al sistema de gestión de citas para un estudio de tatuajes.
 
@@ -21,11 +9,7 @@ El departamento de producto nos ha encomendado desarrollar el backend correspond
 - Lenguaje: JavaScript.
 
 ***
-## Estructura y diseño de base de datos
 
-<image src="./img/baseDatos.png" alt="Tattoo Studio">
-
-***
 
 ### Instalaciones
 
@@ -40,12 +24,7 @@ El departamento de producto nos ha encomendado desarrollar el backend correspond
     - sequelize-cli
   ***
 
-  ###  Enpoints:
-
-  <image src="./img/end1.png" alt="Tattoo Studio">
- <image src="./img/end2.png" alt="Tattoo Studio">
-
- ***
+  
 
  ### Funcionalidades Futuras
 
